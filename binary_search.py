@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[215]:
-
 
 import random
 def linear_search():
@@ -18,33 +13,7 @@ def linear_search():
         else:
             print("false")
 
-
-# In[216]:
-
-
 linear_search()
-
-
-# In[ ]:
-
-
-
-    
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
