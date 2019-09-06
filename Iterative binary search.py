@@ -14,4 +14,3 @@ def binary_search_iterative(data, target):
 
 
 print(binary_search_iterative([3,6,7,8,10,60],3))
-
